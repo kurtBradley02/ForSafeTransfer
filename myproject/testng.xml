@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.myproject.tests.TestCase21"/>
+      <class name="com.myproject.tests.TestCase22"/>
+      <class name="com.myproject.tests.TestCase20"/>
+      <class name="com.myproject.tests.TestCase18"/>
+      <class name="com.myproject.tests.TestCase19"/>
+      <class name="com.myproject.tests.TestCase16"/>
+      <class name="com.myproject.tests.TestCase17"/>
+      <class name="com.myproject.tests.TestCase14"/>
+      <class name="com.myproject.tests.TestCase15"/>
+      <class name="com.myproject.tests.TestCase12"/>
+      <class name="com.myproject.tests.TestCase13"/>
+      <class name="com.myproject.tests.TestCase3"/>
+      <class name="com.myproject.tests.TestCase10"/>
+      <class name="com.myproject.tests.TestCase4"/>
+      <class name="com.myproject.tests.TestCase11"/>
+      <class name="com.myproject.tests.TestCase5"/>
+      <class name="com.myproject.tests.TestCase6"/>
+      <class name="com.myproject.tests.TestCase7"/>
+      <class name="com.myproject.tests.TestCase8"/>
+      <class name="com.myproject.tests.TestCase9"/>
+      <class name="com.myproject.tests.TestCase1"/>
+      <class name="com.myproject.tests.TestCase2"/>
+      <class name="com.myproject.tests.TestCase25"/>
+      <class name="com.myproject.tests.TestCase26"/>
+      <class name="com.myproject.tests.TestCase23"/>
+      <class name="com.myproject.tests.TestCase24"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

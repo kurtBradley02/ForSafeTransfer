@@ -1,0 +1,6 @@
+NOTES: Playwright
+
+install dependencies node.js
+
+create folder on desktop > terminal > npm init playwright@latest
+

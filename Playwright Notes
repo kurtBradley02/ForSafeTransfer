@@ -4,3 +4,7 @@ install dependencies node.js
 
 create folder on desktop > terminal > npm init playwright@latest
 
+//For running specific spec file
+npx playwright test tests/mytest.spec.js --headed
+
+

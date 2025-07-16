@@ -8,3 +8,7 @@ create folder on desktop > terminal > npm init playwright@latest
 npx playwright test tests/mytest.spec.js --headed
 
 
+  // pause here and leave browser open
+  await page.pause();
+
+

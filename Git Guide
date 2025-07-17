@@ -1,0 +1,10 @@
+git clone --single-branch --branch feature-test https://github.com/kurtBradley02/PracticeGit.git
+
+git branch
+
+git fetch origin develop:develop
+
+git checkout develop
+
+git merge-base feature-test develop
+

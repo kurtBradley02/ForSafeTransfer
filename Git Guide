@@ -27,3 +27,10 @@ git rebase develop
 "FOR PUSHIN UPDATES"
 
 git push --force-with-lease origin feature
+
+----------------------------------------------------------
+
+"ALTERNATE - FOR UPDATING BRANCH"
+
+git fetch origin
+git rebase origin/develop

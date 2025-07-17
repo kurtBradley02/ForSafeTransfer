@@ -1,3 +1,5 @@
+"FOR CREATING BRANCH"
+
 git clone --single-branch --branch feature-test https://github.com/kurtBradley02/PracticeGit.git
 
 git branch
@@ -10,7 +12,7 @@ git merge-base feature-test develop
 
 -------------------------------------------------------
 
-for updating
+"FOR UPDATING BRANCH"
 
 git checkout develop
 
@@ -20,3 +22,8 @@ git checkout feature
 
 git rebase develop
 
+---------------------------------------------------------
+
+"FOR PUSHIN UPDATES"
+
+git push --force-with-lease origin feature

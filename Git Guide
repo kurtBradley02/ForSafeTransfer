@@ -8,3 +8,15 @@ git checkout develop
 
 git merge-base feature-test develop
 
+-------------------------------------------------------
+
+for updating
+
+git checkout develop
+
+git pull origin develop
+
+git checkout feature
+
+git rebase develop
+
